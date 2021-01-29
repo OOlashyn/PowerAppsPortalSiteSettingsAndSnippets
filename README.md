@@ -40,6 +40,7 @@ Applies to all lookup modals
 - **Portal/Lookup/Modal/Grid/Search/PlaceholderText** - text for lookup modal search placeholder (Default: "Search"). Applies to all lookup modals
 - **Portal/Lookup/Modal/Grid/Search/TooltipText** - text for lookup modal search tooltip (Default: "To search on partial text, use the asterisk (*) wildcard character"). Applies to all lookup modals
 - **CustomerService/Support/SignIn** - text for default sign in message (Default: "Please sign in to open a new case or to view a list of your existing cases.")
+- **Account/Nav/Redeem** - text for redeem invitation section of the sign in page (Default: "Redeem invitation")
 
 ## Contribute
 
