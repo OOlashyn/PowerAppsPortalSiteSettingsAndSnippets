@@ -14,6 +14,7 @@
 - **Tracking Code** - created by the system when you setup Portal analytics. Contains tracking code define by the user that will be added to the bottom of every page
 - **links/logout** - text for standard signout button
 - **links/login** - text for standard signin button
+- **Account/Nav/SignIn** - text for Sign In page title
 - **Portal/Lookup/Modal/Title** - text for lookup modal title (Default: "Lookup Records"). Applies to all lookup modals
 - **Portal/Lookup/Modal/PrimaryButtonText** - text for lookup modal primary button (Default: "Select"). Applies to all lookup modals
 - **Portal/Lookup/Modal/CancelButtonText** - text for lookup modal cancel button (Default: "Cancel"). Applies to all lookup modals
