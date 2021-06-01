@@ -43,7 +43,9 @@ Applies to all lookup modals
 - **CustomerService/Support/SignIn** - text for default sign in message (Default: "Please sign in to open a new case or to view a list of your existing cases.")
 - **Account/Nav/Redeem** - text for redeem invitation section of the sign in page (Default: "Redeem invitation")
 - **Account/Redeem/InvitationCodeFormHeading** - text for header on Sign up with Invitation Code page (Default: "Sign up with an invitation code") 
-- **Account/Redeem/InvitationCodeLabel** - text for Invidation Code of the Redeem Invitation page (Default: "Invitation code") 
+- **Account/Redeem/InvitationCodeLabel** - text for Invidation Code of the Redeem Invitation page (Default: "Invitation code")
+- **Profile Submit Button Text** - text for submit button on Profile page (Default: "Update") 
+
 
 ## Contribute
 
