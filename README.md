@@ -44,7 +44,8 @@ Applies to all lookup modals
 - **Account/Nav/Redeem** - text for redeem invitation section of the sign in page (Default: "Redeem invitation")
 - **Account/Redeem/InvitationCodeFormHeading** - text for header on Sign up with Invitation Code page (Default: "Sign up with an invitation code") 
 - **Account/Redeem/InvitationCodeLabel** - text for Invidation Code of the Redeem Invitation page (Default: "Invitation code")
-- **Profile Submit Button Text** - text for submit button on Profile page (Default: "Update") 
+- **Profile Submit Button Text** - text for submit button on Profile page (Default: "Update")
+- **Account/Nav/Register** - text for Register section of the sign in page (Default: "Register")
 
 
 ## Contribute
