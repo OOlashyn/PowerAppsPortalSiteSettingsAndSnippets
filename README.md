@@ -46,6 +46,8 @@ Applies to all lookup modals
 - **Account/Redeem/InvitationCodeLabel** - text for Invidation Code of the Redeem Invitation page (Default: "Invitation code")
 - **Profile Submit Button Text** - text for submit button on Profile page (Default: "Update")
 - **Account/Nav/Register** - text for Register section of the sign in page (Default: "Register")
+- **Account/SignIn/PasswordResetLabel** - text for Forgot passowrd button on the local sign in page (Default: "Forgot your password?")
+- **Account/SignIn/SignInLocalButtonText** - text for Sign in button on the local sign in page (Default: "Sign In")
 
 
 ## Contribute
