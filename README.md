@@ -48,7 +48,9 @@ Applies to all lookup modals
 - **Account/Nav/Register** - text for Register section of the sign in page (Default: "Register")
 - **Account/SignIn/PasswordResetLabel** - text for Forgot passowrd button on the local sign in page (Default: "Forgot your password?")
 - **Account/SignIn/SignInLocalButtonText** - text for Sign in button on the local sign in page (Default: "Sign In")
-
+- **Account/PasswordReset/EmailLabel** - text for Forgot password screen Email label. (Default: "Email")
+- **Account/PasswordReset/EmailInstructionsText** - text for Forgot password screen email instructions text. (Default: "Enter your email address to request a password reset")
+-**Account/PasswordReset/ForgotPasswordFormHeading** - text for Forgot password screen form heading. (Default: "Forgot your password?")
 
 ## Contribute
 
