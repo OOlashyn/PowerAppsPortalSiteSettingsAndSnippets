@@ -1,3 +1,5 @@
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 # Site Settings & Content Snippets for Power Apps Portals
 > List of little known and hidden Content Snippets and Site Settings for Power Apps Portals
 
