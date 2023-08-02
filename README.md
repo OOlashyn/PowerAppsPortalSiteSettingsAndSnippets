@@ -5,6 +5,7 @@
 
 ## Site Settings
 
+- **DateTime/DateFormat** - Change the date time format for display and datetime picker in portal (ex. dd/MM/yyyy)
 - **Portal/Lookup/Modal/Grid/PageSize** - controls page size for lookup modal grids (Default: "10")
 - **Portal/Lookup/Modal/Size** - control size of lookup modal (Default: "Large". Available value: "Small", "Large")
 
